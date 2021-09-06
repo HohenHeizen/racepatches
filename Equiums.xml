@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<!-- Equiums. 1211945995. https://steamcommunity.com/sharedfiles/filedetails/?id=1211945995 -->
+	<!-- New Equiums. 2103376790. https://steamcommunity.com/sharedfiles/filedetails/?id=2103376790 -->
+	<rjw.RaceGroupDef>
+		<defName>Equiums_Horse_People</defName>
+		<raceNames>
+			<li>Alien_Equium</li>
+			<li>Alien_DonkEquium</li>
+			<li>Alien_UniEquium</li>
+			<li>Alien_ZEquium</li>
+			<li>Alien_PEquium</li>
+            <li>Alien_DonkPEquium</li>
+            <li>Alien_UniPEquium</li>
+            <li>Alien_ZPEquium</li>
+		</raceNames>
+		
+		<anuses>
+			<li>HorseAnus</li>
+		</anuses>
+
+		<femaleBreasts>
+			<li>UdderBreasts</li>
+		</femaleBreasts>
+		
+		<femaleGenitals>
+			<li>HorseVagina</li>
+		</femaleGenitals>
+
+		<maleBreasts>
+			<li>FeaturelessChest</li>
+		</maleBreasts>
+
+		<maleGenitals>
+			<li>Large_Horse_Penis</li>
+		</maleGenitals>
+		
+		<tags>
+			<li>Fur</li>
+		</tags>
+	</rjw.RaceGroupDef>
+</Defs>
