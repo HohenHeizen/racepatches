@@ -1,8 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-
 	<!-- Kenshi Skeleton Race. 2577145706. https://steamcommunity.com/sharedfiles/filedetails/?id=2577145706 -->
-	
 	<rjw.RaceGroupDef>
 		<defName>RimSkeleton</defName>
 		<raceNames>
@@ -10,18 +8,14 @@
 		</raceNames>
 		<anuses>
 			<li>HydraulicAnus</li>
-			<li>HydraulicAnus</li>
-			<li>HydraulicAnus</li>
-			<li>HydraulicAnus</li>
-			<li>HydraulicAnus</li>
-			<li>HydraulicAnus</li>
-			<li>HydraulicAnus</li>
-			<li>HydraulicAnus</li>
-			<li>HydraulicAnus</li>
-			<li>BionicAnus</li>
 			<li>BionicAnus</li>
 			<li>ArchotechAnus</li>
 		</anuses>
+		<chanceanuses>
+			<li>0.90</li>
+			<li>0.08</li>
+			<li>0.02</li>
+		</chanceanuses>
 		<femaleBreasts>
 		</femaleBreasts>
 		<femaleGenitals>
@@ -30,21 +24,16 @@
 		</maleBreasts>
 		<maleGenitals>
 			<li>PegDick</li>
-			<li>PegDick</li>
 			<li>HydraulicPenis</li>
-			<li>HydraulicPenis</li>
-			<li>HydraulicPenis</li>
-			<li>HydraulicPenis</li>
-			<li>HydraulicPenis</li>
-			<li>HydraulicPenis</li>
-			<li>HydraulicPenis</li>
-			<li>HydraulicPenis</li>
-			<li>HydraulicPenis</li>
-			<li>HydraulicPenis</li>
-			<li>BionicPenis</li>
 			<li>BionicPenis</li>
 			<li>ArchotechPenis</li>
 		</maleGenitals>
+		<chancemaleGenitals>
+			<li>0.1</li>
+			<li>0.8</li>
+			<li>0.08</li>
+			<li>0.02</li>
+		</chancemaleGenitals>
 		<tags>
 			<li>Robot</li>
 		</tags>
@@ -55,9 +44,7 @@
 		<oviPregnancy>false</oviPregnancy>
 		<ImplantEggs>false</ImplantEggs>
 	</rjw.RaceGroupDef>
-	
 	<!-- Kenshi Shek Race. 2526308637. https://steamcommunity.com/sharedfiles/filedetails/?id=22526308637 -->
-	
 	<rjw.RaceGroupDef>
 		<defName>RimShek</defName>
 		<raceNames>
@@ -77,7 +64,12 @@
 		</maleBreasts>
 		<maleGenitals>
 			<li>HemiPenis</li>
+			<li>Penis</li>
 		</maleGenitals>
+		<chancemaleGenitals>
+			<li>0.25</li>
+			<li>0.75</li>
+		</chancemaleGenitals>
 		<tags>
 			<li>Scale</li>
 		</tags>
@@ -88,9 +80,7 @@
 		<oviPregnancy>false</oviPregnancy>
 		<ImplantEggs>false</ImplantEggs>
 	</rjw.RaceGroupDef>
-	
 	<!--Kenshi Hiver Race. 2506643795.  https://steamcommunity.com/sharedfiles/filedetails/?id=2506643795-->
-	
 	<rjw.RaceGroupDef>
 		<defName>RimHiver_Race</defName>
 		<raceNames>
@@ -124,9 +114,7 @@
 		<oviPregnancy>true</oviPregnancy>
 		<ImplantEggs>true</ImplantEggs>
 	</rjw.RaceGroupDef>
-	
 	<!--Kenshi Hiver Race. Queen Scenario Not Needed 2510896962.  https://steamcommunity.com/sharedfiles/filedetails/?id=2510896962-->
-	
 	<rjw.RaceGroupDef>
 		<defName>RimHiver_Queen</defName>
 		<raceNames>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<!-- Equiums. 1211945995. https://steamcommunity.com/sharedfiles/filedetails/?id=1211945995 -->
+	<!-- New Equiums. 2103376790. https://steamcommunity.com/sharedfiles/filedetails/?id=2103376790 -->
+	<rjw.RaceGroupDef>
+		<defName>ERN_Chocobo</defName>
+		<raceNames>
+			<li>ERN_Chocobo</li>
+		</raceNames>
+		<anuses>
+			<li>CloacalAnus</li>
+		</anuses>
+	
+		<femaleBreasts>
+		</femaleBreasts>
+		
+		<femaleGenitals>
+			<li>CloacalVagina</li>
+		</femaleGenitals>
+	
+		<maleBreasts>
+		</maleBreasts>
+
+		<maleGenitals>
+			<li>CloacalPenis</li>
+		</maleGenitals>
+	
+		<tags>
+			<li>Feather</li>
+		</tags>
+		<hasSingleGender>false</hasSingleGender>
+		<hasSexNeed>true</hasSexNeed>
+		<hasFertility>true</hasFertility>
+		<hasPregnancy>true</hasPregnancy>
+		<oviPregnancy>false</oviPregnancy>
+		<ImplantEggs>false</ImplantEggs>
+	</rjw.RaceGroupDef>
+</Defs>
