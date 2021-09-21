@@ -150,11 +150,13 @@
 		</maleBreasts>
 		<maleGenitals>
 			<li>HemiPenis</li>
+			<li>CloacalPenis</li>
 			<li>Penis</li>
 		</maleGenitals>
 		<chancemaleGenitals>
 			<li>0.25</li>
-			<li>0.75</li>
+			<li>.10</li>
+			<li>0.65</li>
 		</chancemaleGenitals>
 		<tags>
 			<li>Scale</li>

@@ -43,13 +43,7 @@
 			<li>0.02</li>
 		</chanceanuses>
 		<femaleBreasts>
-			<li>Breasts</li>
-			<li>Breasts</li>
-			<li>Breasts</li>
-			<li>Breasts</li>
-			<li>Breasts</li>
-			<li>Breasts</li>
-			<li>Breasts</li>
+		
 			<li>Breasts</li>
 			<li>BionicBreasts</li>
 			<li>ArchotechBreasts</li>
@@ -60,12 +54,6 @@
 			<li>0.02</li>
 		</chancefemaleBreasts>
 		<femaleGenitals>
-			<li>Vagina</li>
-			<li>Vagina</li>
-			<li>Vagina</li>
-			<li>Vagina</li>
-			<li>Vagina</li>
-			<li>Vagina</li>
 			<li>Vagina</li>
 			<li>BionicVagina</li>
 			<li>ArchotechVagina</li>
@@ -79,13 +67,6 @@
 			<li>Breasts</li>
 		</maleBreasts>
 		<maleGenitals>
-			<li>Penis</li>
-			<li>Penis</li>
-			<li>Penis</li>
-			<li>Penis</li>
-			<li>Penis</li>
-			<li>Penis</li>
-			<li>Penis</li>
 			<li>Penis</li>
 			<li>BionicPenis</li>
 			<li>ArchotechPenis</li>

@@ -82,12 +82,41 @@
 	</rjw.RaceGroupDef>
 	<!--Kenshi Hiver Race. 2506643795.  https://steamcommunity.com/sharedfiles/filedetails/?id=2506643795-->
 	<rjw.RaceGroupDef>
-		<defName>RimHiver_Race</defName>
+		<defName>RimHiver_Drones</defName>
 		<raceNames>
 			<li>Hiver_Worker</li>
 			<li>Hiver_Worker_South</li>
 			<li>Hiver_Soldier</li>
 			<li>Hiver_Soldier_South</li>
+		</raceNames>
+		<anuses>
+			<li>InsectAnus</li>
+		</anuses>
+		<femaleBreasts>
+		</femaleBreasts>
+		<femaleGenitals>
+		</femaleGenitals>
+		<maleBreasts>
+			<li>FeaturelessChest</li>
+		</maleBreasts>
+		<maleGenitals>
+			<li>OvipositorM</li>
+		</maleGenitals>
+		<tags>
+			<li>Chitin</li>
+		</tags>
+		<raceSexDrive>.01</raceSexDrive>
+		<hasSingleGender>true</hasSingleGender>
+		<hasSexNeed>true</hasSexNeed>
+		<hasFertility>true</hasFertility>
+		<hasPregnancy>false</hasPregnancy>
+		<oviPregnancy>true</oviPregnancy>
+		<ImplantEggs>true</ImplantEggs>
+	</rjw.RaceGroupDef>
+	<!--Kenshi Prince Race. 2506643795.  https://steamcommunity.com/sharedfiles/filedetails/?id=2506643795-->
+	<rjw.RaceGroupDef>
+		<defName>RimHiver_Prince</defName>
+		<raceNames>
 			<li>Hiver_Prince</li>
 			<li>Hiver_Prince_South</li>
 		</raceNames>
@@ -107,8 +136,9 @@
 		<tags>
 			<li>Chitin</li>
 		</tags>
+		<raceSexDrive>.2</raceSexDrive>
 		<hasSingleGender>true</hasSingleGender>
-		<hasSexNeed>false</hasSexNeed>
+		<hasSexNeed>true</hasSexNeed>
 		<hasFertility>true</hasFertility>
 		<hasPregnancy>false</hasPregnancy>
 		<oviPregnancy>true</oviPregnancy>
@@ -126,10 +156,17 @@
 		</anuses>
 		<femaleBreasts>
 			<li>FeaturelessChest</li>
+			
 		</femaleBreasts>
+
 		<femaleGenitals>
+			<li>Ovipore</li>
 			<li>OvipositorF</li>
 		</femaleGenitals>
+		<chancefemaleGenitals>
+			<li>1</li>
+			<li>1</li>
+		</chancefemaleGenitals>
 		<maleBreasts>
 			<li>FeaturelessChest</li>
 		</maleBreasts>
