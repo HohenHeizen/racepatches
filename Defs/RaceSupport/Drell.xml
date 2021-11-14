@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<!-- Rim-Effect: Drell Race. 2651150217. https://steamcommunity.com/sharedfiles/filedetails/?id=2651150217 -->
+	<rjw.RaceGroupDef>
+		<defName>REJW_Drell</defName>
+		<raceNames>
+			<li>RE_Drell</li>
+		</raceNames>
+		<anuses>
+			<li>CloacalAnus</li>
+			<li>BionicAnus</li>
+		</anuses>
+		<chanceanuses>
+			<li>0.95</li>
+			<li>0.05</li>
+		</chanceanuses>
+		<femaleBreasts>
+			<li>ScaleBreasts</li>
+			<li>BionicBreasts</li>
+		</femaleBreasts>
+		<chancefemaleBreasts>
+			<li>0.95</li>
+			<li>0.05</li>
+		</chancefemaleBreasts>
+		<femaleGenitals>
+			<li>CloacalVagina</li>
+			<li>BionicVagina</li>
+		</femaleGenitals>
+		<chancefemaleGenitals>
+			<li>0.95</li>
+			<li>0.05</li>
+		</chancefemaleGenitals>
+		<maleGenitals>
+			<li>HemiPenis</li>
+			<li>BionicPenis</li>
+		</maleGenitals>
+		<chancemaleGenitals>
+			<li>0.95</li>
+			<li>0.05</li>
+		</chancemaleGenitals>
+		<maleBreasts>
+			<li>FeaturelessChest</li>	
+		</maleBreasts>
+		<tags>
+			<li>Scale</li>
+		</tags>
+		<hasSingleGender>false</hasSingleGender>
+		<hasSexNeed>true</hasSexNeed>
+		<hasFertility>true</hasFertility>
+		<hasPregnancy>true</hasPregnancy>
+		<oviPregnancy>false</oviPregnancy>
+		<ImplantEggs>false</ImplantEggs>
+	</rjw.RaceGroupDef>
+</Defs>

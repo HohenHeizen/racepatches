@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<!-- Asari Race. 2651149728. https://steamcommunity.com/sharedfiles/filedetails/?id=2651149728 -->
+	<rjw.RaceGroupDef>
+		<defName>REJW_Asari</defName>
+		<raceNames>
+			<li>RE_Asari</li>
+		</raceNames>
+		<anuses>
+			<li>Anus</li>
+			<li>ElfAnus</li>
+			<li>BionicAnus</li>
+			<li>ArchotechAnus</li>
+		</anuses>
+		<chanceanuses>
+			<li>0.50</li>
+			<li>0.25</li>
+			<li>0.10</li>
+			<li>0.02</li>
+		</chanceanuses>
+		<femaleBreasts>
+			<li>Breasts</li>
+			<li>BionicBreasts</li>
+			<li>ArchotechBreasts</li>
+		</femaleBreasts>
+		<chancefemaleBreasts>
+			<li>0.75</li>
+			<li>0.10</li>
+			<li>0.02</li>
+		</chancefemaleBreasts>
+		<femaleGenitals>
+			<li>Vagina</li>
+			<li>ElfVagina</li>
+			<li>BionicVagina</li>
+			<li>ArchotechVagina</li>
+		</femaleGenitals>
+		<chancefemaleGenitals>
+			<li>0.50</li>
+			<li>0.25</li>
+			<li>0.10</li>
+			<li>0.02</li>
+		</chancefemaleGenitals>
+		<maleGenitals>
+
+		</maleGenitals>
+		<maleBreasts>
+			
+		</maleBreasts>
+		<tags>
+			<li>Skin</li>
+		</tags>
+		<hasSingleGender>true</hasSingleGender>
+		<hasSexNeed>true</hasSexNeed>
+		<hasFertility>true</hasFertility>
+		<hasPregnancy>true</hasPregnancy>
+		<oviPregnancy>false</oviPregnancy>
+		<ImplantEggs>false</ImplantEggs>
+	</rjw.RaceGroupDef>
+</Defs>

@@ -4,7 +4,7 @@
 	<rjw.RaceGroupDef>
 		<defName>XENO_HighNewman</defName>
 		<raceNames>
-			<li>XENOHighNewman</li>
+			<li>XENOHighNewmanRace</li>
 		</raceNames>
 		<anuses>
 			<li>ElfAnus</li>
@@ -36,7 +36,7 @@
 	<rjw.RaceGroupDef>
 		<defName>XENO_Newman</defName>
 		<raceNames>
-			<li>XENONewman</li>
+			<li>XENONewmanRace</li>
 		</raceNames>
 		<anuses>
 			<li>Anus</li>
